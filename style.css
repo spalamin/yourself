@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+}
+.first{
+    float: left;
+    width: 40%;
+    padding-left: 5%;
+    margin-left: 2%;
+}
+.first img{
+    width: 100%;
+}
+.hilight{
+    color: #ec4c7a;
+}
+p{
+    color: silver;
+    text-align: justify;
+}
+.web-bgf{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    padding: 30px 30px;
+}
+section{
+    height: 600px;
+    padding-bottom: 0px;
+}
+.first a{
+    text-decoration: none;
+    background-image: linear-gradient(140deg, #ec4d8b, #ee5277);
+    padding: 10px 10px;
+    border-radius: 10px;
+    color: white;
+}
+.my-work img{
+    float: left;
+    width: 28%;
+    padding: 1%;
+}
+.web-bgl{
+    padding: 2px;
+    margin-left: 10px;
+}
+.text-hading{
+    text-align: center;
+}
+.web-bgl{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    padding: 30px 30px;
+}
+.massage-m{
+    width: 300px;
+    margin: auto;
+    background: rgb(232,44,184);
+    background: linear-gradient(90deg, rgba(232,44,184,1) 0%, rgba(252,70,107,1) 100%);
+    padding: 20px 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+.massage-m a{
+    text-decoration: none;
+    color: white;
+}.web-blc{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+footer{
+    text-align: center;
+}
